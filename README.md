@@ -8,5 +8,5 @@
 ### 💬 Ask me about
   Frontend development (HTML, CSS, JavaScript)
   Figma prototyping and UX thinking
-### 📫 How to reach me: fightbears@teddybearss@gmail.com
+### 📫 How to reach me: fightbears.teddybearss@gmail.com
  
